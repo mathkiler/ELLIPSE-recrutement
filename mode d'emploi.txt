@@ -1,0 +1,13 @@
+Version de Python utilisée : 3.9.6
+
+Les trois questions sont réparties dans trois scripts Python distincts.
+Chaque question reprend le code de la question précédente en y ajoutant les éléments nécessaires.
+Ainsi, le script script_Q3.py est la version la plus complète de l'application et contient la réponse aux trois questions.
+
+Les scripts script_Q1.py et script_Q2.py utilisent la version 1 de l'API, tandis que le script script_Q3.py utilise la version 3 de l'API.
+
+Pour lancer l'application, il suffit d'installer tous les modules nécessaires (le script install_modules.bat le fait automatiquement) et d'exécuter l'un des trois scripts (le script script_Q3.py est recommandé).
+
+Si le lancement du programme ne fonctionne pas dans un éditeur de code comme VSCode, exécuter le programme directement dans une invite de commande Windows en utilisant la commande "python script_Q3.py" fonctionnera.
+
+IMPORTANT : Pour que le programme fonctionne, vous devez disposer d'une clé d'API JCDecaux. Dans le dépôt GitHub, un fichier api_key.txt est vide et doit contenir une clé valide.
